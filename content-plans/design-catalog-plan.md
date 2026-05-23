@@ -47,7 +47,7 @@
 | DC-001 | ナチュラルデザイン | `/column/eyelash/catalog/natural` | まつ毛 ナチュラル デザイン | 自然な仕上がりを知りたい | ナチュラル系の特徴、向いている人、相談ポイント | 深い悩み診断（悩み起点の導線は`/guide_by_problem/design`へ） | あり（`/column/eyelash/catalog`） | DC-002, DC-003 | `/price` `/salon` `/app` | 1 |
 | DC-002 | ぱっちりデザイン | `/column/eyelash/catalog/bright-eye` | ぱっちり まつ毛 デザイン | 目元を印象的に見せたい | ぱっちり見えの比較、強さ調整の考え方 | 医療効果の断定、悩み解決の主軸化 | あり | DC-001, DC-004, DC-006 | `/price` `/salon` `/app` | 1 |
 | DC-003 | 束感まつ毛デザイン | `/column/eyelash/catalog/tufted` | 束感 まつ毛 デザイン | 束感の見え方と選び方を知りたい | 束感の特徴、日常メイクとの相性、写真映え傾向 | 施術可否の断定、当日予約断定 | あり | DC-001, DC-004, DC-007 | `/price` `/salon` `/app` | 2 |
-| DC-004 | 韓国風・ワンホン風デザイン | `/column/eyelash/catalog/korean-wonhonge` | 韓国風 まつ毛 デザイン | トレンド系デザインを比較したい | トレンド表現の違い、雰囲気比較、注意点 | 他店比較の過度批判、根拠のないNo.1訴求 | あり | DC-002, DC-003 | `/price` `/salon` `/app` | 2 |
+| DC-004 | 韓国風・ワンホン風デザイン | `/column/eyelash/catalog/korean-style` | 韓国風 まつ毛 デザイン | トレンド系デザインを比較したい | トレンド表現の違い、雰囲気比較、注意点 | 他店比較の過度批判、根拠のないNo.1訴求 | あり | DC-002, DC-003 | `/price` `/salon` `/app` | 2 |
 | DC-005 | 一重・奥二重向けデザイン | `/column/eyelash/catalog/monolid-hooded` | 一重 奥二重 まつ毛 デザイン | 目の形に合わせた見え方を知りたい | 目の形別の見え方、相談時の伝え方 | 悩み解決の主軸化（必要に応じて`/guide_by_problem/design`へ） | あり | DC-001, DC-006, DC-007 | `/price` `/salon` `/app` | 1 |
 | DC-006 | 下がりまつ毛向けデザイン | `/column/eyelash/catalog/downward-lash` | 下がりまつ毛 デザイン | 下がりまつ毛での見え方比較をしたい | 上がり見えの工夫、比較軸、相談ポイント | 改善の断定表現、治療的表現 | あり | DC-002, DC-005, DC-007 | `/price` `/salon` `/app` | 1 |
 | DC-007 | まつ毛パーマデザイン | `/column/eyelash/catalog/lash-lift` | まつ毛パーマ デザイン | パーマ系デザインの違いを知りたい | カール感の比較、日常向け選び方 | 価格詳細の本文内完結（料金は`/price`へ） | あり | DC-003, DC-005, DC-008 | `/price` `/salon` `/app` | 1 |
